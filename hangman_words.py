@@ -1,3 +1,5 @@
+//hangman words word_list
+
 word_list = [
 'abruptly',
 'absurd',

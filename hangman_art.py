@@ -1,3 +1,5 @@
+//hangman graphic + level
+
 stages = ['''
   +---+
   |   |
