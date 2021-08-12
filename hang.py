@@ -1,3 +1,6 @@
+//hangman code logic
+
+
 import random
 import hangman_words
 # from clear import clear
